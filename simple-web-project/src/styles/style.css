@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+.redirect-message {
+    font-size: 1.5rem;
+    color: #333;
+}

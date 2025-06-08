@@ -1,0 +1,1 @@
+window.location.href = "https://9000-firebase-studio-1749392988916.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev/?monospaceUid=705521";
